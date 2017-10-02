@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"cclib/future"
+	"github.com/jenchik/future"
 )
 
 func ExampleFuture() {
