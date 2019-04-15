@@ -4,6 +4,7 @@ Golang implementation of futures/promises. Idea from https://github.com/sentient
 [![Build Status](https://travis-ci.org/jenchik/future.svg)](https://travis-ci.org/jenchik/future)
 [![GoDoc](https://godoc.org/github.com/jenchik/future?status.svg)](https://godoc.org/github.com/jenchik/future)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jenchik/future)](https://goreportcard.com/report/github.com/jenchik/future)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjenchik%2Ffuture.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjenchik%2Ffuture?ref=badge_shield)
 
 Installation
 ------------
@@ -41,3 +42,7 @@ func main() {
 	fmt.Printf("Got result: %d\n", response.StatusCode)
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjenchik%2Ffuture.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjenchik%2Ffuture?ref=badge_large)
